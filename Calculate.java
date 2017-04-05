@@ -7,7 +7,6 @@ public class Calculate {
 		int multiplication = first * second;
 		int subtraction = first - second;
 		int division = first / second;
-		
 		System.out.println("Sum  " + summ); 
 		System.out.println("*  " + multiplication);
 		System.out.println("-  " + subtraction);
