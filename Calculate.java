@@ -12,6 +12,8 @@ public class Calculate {
 		System.out.println("-  " + subtraction);
 		System.out.println("/  " + division);
 		System.out.println("/  " + division);
+		System.out.println("/  " + division);
+		System.out.println("/  " + division);
 		 
 	}
 }
